@@ -49,24 +49,6 @@ A comprehensive registration form with real-time validation built using vanilla 
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 - No additional installations required
 
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/form-validation-app.git
-```
-
-2. Navigate to the project directory:
-```bash
-cd form-validation-app
-```
-
-3. Open `index.html` in your web browser:
-```bash
-open index.html
-```
-Or simply double-click the `index.html` file.
-
 ## Usage
 
 1. **Fill out the form**: Enter your details in each field
